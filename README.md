@@ -25,5 +25,5 @@ Yapay zeka odaklı bu hedefimin yanında, masadaki fikirleri uçtan uca çalış
 
 ### 📬 Bana Ulaşın
 
-- **LinkedIn:** [Sami Yiğit](https://www.linkedin.com/in/senin-linkedin-uzantin-buraya/)
-- **E-posta:** mail.adresin@domain.com
+- **LinkedIn:** [Sami Yiğit](https://www.linkedin.com/in/sami-yi%C4%9Fit-uncu-3b6390268/)
+- **E-posta:** yyigituncu@outlook.com
