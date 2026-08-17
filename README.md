@@ -14,7 +14,7 @@ Yeni teknolojileri küçük projeler üzerinde deneyerek öğrenmeyi ve gelişti
 ## Projeler
 
 ### EmlakAsistanAI
-Gayrimenkul danışmanlarının görüşme süreçlerini yönetmeye yardımcı olmak amacıyla geliştirilmiş .NET tabanlı bir backend projesi.
+Gayrimenkul danışmanlarının görüşme süreçlerini yönetmeye yardımcı olmak amacıyla geliştirilmiş .NET tabanlı proje.
 
 [Projeyi GitHub'da görüntüle](https://github.com/yyigituncu/EmlakAsistanAI)
 
