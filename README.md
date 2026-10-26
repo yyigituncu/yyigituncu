@@ -1,25 +1,23 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=200&section=header&text=Sami%20Yi%C4%9Fit%20Uncu&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Backend%20%7C%20Computer%20Vision%20%7C%20AI&descSize=16&descAlignY=64&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=180&section=header&text=Sami%20Yi%C4%9Fit%20Uncu&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
 
-  <!-- Dynamic Typing Subtitle -->
   <p align="center">
-    <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+modern+backend+architectures;Exploring+computer+vision+%26+edge+AI;Focused+on+clean+code+%26+performance" alt="Typing SVG" />
-    </a>
+    👋 <b>Merhaba!</b> Kod yazmayı, yeni teknolojiler kurcalamayı ve bir şeyler üretmeyi seven bir bilgisayar mühendisliği öğrencisiyim.
   </p>
 
-  <!-- Quick Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/samiyigituncu/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="mailto:yyigituncu@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    &nbsp;
     <a href="https://github.com/yyigituncu">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
@@ -27,81 +25,80 @@
 
 ---
 
-### 📌 Hakkımda
+### 👋 Biraz Ben
 
-Bilgisayar mühendisliği öğrencisiyim. Çalışmalarımı ağırlıklı olarak **.NET ile backend mimarileri** ve **Python ile bilgisayarlı görü (computer vision)** üzerine yoğunlaştırıyorum.
-
-- 💻 **Backend:** C# ve ASP.NET Core ile RESTful API'ler, katmanlı mimariler ve veri tabanı yönetimi.
-- 👁️ **Görüntü İşleme:** OpenCV ve YOLO ile nesne tespiti, sınıflandırma ve Raspberry Pi gibi uç cihazlarda gerçek zamanlı çalışan çözümler.
-- 🎯 **Yaklaşım:** Temiz mimari prensipleri, verimli algoritmalar ve doğrudan gerçek dünyada karşılığı olan projeler üretmek.
+- 🎓 Bilgisayar Mühendisliği öğrencisiyim.
+- 💻 Ağırlıklı olarak **C# / .NET** tarafında backend ve API geliştirmeyle uğraşıyorum.
+- 👁️ **Python, OpenCV ve YOLO** ile görüntü işleme projeleri yapıyorum; Raspberry Pi gibi donanımlar üzerinde denemeler yapmayı seviyorum.
+- ☕ Bir fikir aklıma yattığında hemen prototip çıkarıp test etmeyi, çalışırken öğrenmeyi tercih ediyorum.
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+### 🛠️ Nelerle Uğraşıyorum?
 
 <div align="center">
 
-| Alan | Teknolojiler |
+| Alan | Araçlar & Teknolojiler |
 | :--- | :--- |
-| **Backend** | `C#` · `.NET Core` · `ASP.NET Core Web API` · `Entity Framework Core` · `RESTful API` |
-| **Görüntü İşleme & AI** | `Python` · `OpenCV` · `YOLO` · `ONNX Runtime` · `Raspberry Pi (Edge AI)` |
-| **Veri Tabanı & Araçlar** | `MS SQL Server` · `PostgreSQL` · `Git` · `GitHub` · `Linux` |
-| **Mobil & Web** | `React Native` · `TypeScript` |
+| **Backend** | `C#` · `.NET Core` · `ASP.NET Core Web API` · `EF Core` |
+| **Görüntü İşleme & AI** | `Python` · `OpenCV` · `YOLO` · `ONNX Runtime` · `Raspberry Pi` |
+| **Veritabanı & Altyapı** | `MS SQL Server` · `PostgreSQL` · `Git` · `GitHub` · `Linux` |
+| **Mobil / Arayüz** | `React Native` · `TypeScript` |
 
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,opencv,ts,react,postgres,git,github,linux,raspberrypi&theme=dark" alt="Teknoloji İkonları" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,opencv,ts,react,postgres,git,github,linux,raspberrypi&theme=dark" alt="Teknolojiler" />
 </a>
 
 </div>
 
 ---
 
-### 🚀 Öne Çıkan Projeler
+### 🚀 Neler Yaptım?
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 EmlakAsistanAI</h3>
-      <p>Gayrimenkul danışmanlarının ses kayıtlarını analiz ederek otomatik olarak müşteri, ilan ve görüşme notlarına dönüştüren yapay zekâ destekli CRM uygulaması.</p>
+      <p>Gayrimenkul danışmanlarının ses kayıtlarını dinleyip otomatik müşteri ve ilan notlarına dönüştüren yapay zekâ destekli mobil uygulama.</p>
       <p>
-        <code>ASP.NET Core</code> <code>EF Core</code> <code>React Native</code> <code>TypeScript</code> <code>SQL Server</code>
+        <code>ASP.NET Core</code> <code>EF Core</code> <code>React Native</code> <code>SQL Server</code>
       </p>
       <p align="center">
-        <a href="https://github.com/yyigituncu/EmlakAsistanAI"><b>Projeyi İncele →</b></a>
+        <a href="https://github.com/yyigituncu/EmlakAsistanAI"><b>Projeye Git →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📦 DolapAnaliz</h3>
-      <p>Dolap ve raf fotoğrafları üzerinden nesneleri tespit eden ve kategori bazlı sayım gerçekleştiren YOLO tabanlı görüntü işleme ve analiz sistemi.</p>
+      <p>Dolap ve raf fotoğraflarından ürünleri tespit edip kategoriye göre sayım yapan YOLO tabanlı görüntü işleme projesi.</p>
       <p>
-        <code>Python</code> <code>YOLO</code> <code>OpenCV</code> <code>Computer Vision</code>
+        <code>Python</code> <code>YOLO</code> <code>OpenCV</code>
       </p>
       <p align="center">
-        <a href="https://github.com/yyigituncu/DolapAnaliz"><b>Projeyi İncele →</b></a>
+        <a href="https://github.com/yyigituncu/DolapAnaliz"><b>Projeye Git →</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🚗 PTS — Plaka Tanıma Sistemi</h3>
-      <p>Raspberry Pi üzerinde uçta çalışan, kamera akışından araç plakalarını tespit edip OCR ile ayrıştıran staj AR-GE çalışması.</p>
+      <p>Raspberry Pi üzerinde çalışan, kameradan araç plakalarını algılayıp OCR ile metne döken staj projem.</p>
       <p>
         <code>Python</code> <code>OpenCV</code> <code>ONNX Runtime</code> <code>Raspberry Pi</code>
       </p>
       <p align="center">
-        <sub>🔒 Kurumsal staj projesi (Kaynak kod gizlidir)</sub>
+        <sub>🔒 Staj çalışması (Kaynak kod kapalı)</sub>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🐜 ACO Rota Optimizasyonu</h3>
-      <p>Karınca Kolonisi Algoritması (Ant Colony Optimization) ile harita üzerindeki en uygun rota ve mesafe hesaplamalarını gerçekleştiren optimizasyon çalışması.</p>
+      <p>Karınca Kolonisi Algoritması (ACO) kullanarak Konya haritası üzerinde en uygun rota ve mesafeyi hesaplayan optimizasyon denemesi.</p>
       <p>
-        <code>Python</code> <code>Algorithms</code> <code>Heuristic Optimization</code>
+        <code>Python</code> <code>Algorithms</code> <code>Optimizasyon</code>
       </p>
       <p align="center">
-        <a href="https://github.com/yyigituncu/konya-aco-optimization"><b>Projeyi İncele →</b></a>
+        <a href="https://github.com/yyigituncu/konya-aco-optimization"><b>Projeye Git →</b></a>
       </p>
     </td>
   </tr>
@@ -109,7 +106,7 @@ Bilgisayar mühendisliği öğrencisiyim. Çalışmalarımı ağırlıklı olara
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Durumu
 
 <div align="center">
   <table border="0">
@@ -133,18 +130,18 @@ Bilgisayar mühendisliği öğrencisiyim. Çalışmalarımı ağırlıklı olara
 
 ### 📬 İletişim
 
-Projeler veya iş birlikleri için bana dilediğiniz zaman ulaşabilirsiniz:
+Fikir alışverişi yapmak, projeler hakkında konuşmak veya sadece selam vermek istersen:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samiyigituncu/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sami%20Yi%C4%9Fit%20Uncu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sami%20Yi%C4%9Fit%20Uncu-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:yyigituncu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-yyigituncu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-yyigituncu%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=90&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=90&section=footer" width="100%" alt="Footer" />
 </div>
