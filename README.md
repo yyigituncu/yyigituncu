@@ -1,15 +1,16 @@
 <div align="center">
 
-  <!-- Header Banner & Typing Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Sami%20Yi%C4%9Fit%20Uncu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20Backend%20%7C%20Computer%20Vision&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=200&section=header&text=Sami%20Yi%C4%9Fit%20Uncu&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Backend%20%7C%20Computer%20Vision%20%7C%20AI&descSize=16&descAlignY=64&descAlign=50" width="100%" alt="Header Banner" />
 
+  <!-- Dynamic Typing Subtitle -->
   <p align="center">
     <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Backend+Developer+(.NET+%2F+C%23);Computer+Vision+%26+Edge+AI+Enthusiast;Problem+%C3%87%C3%B6zmeye+Odakl%C4%B1+M%C3%BChendislik" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+modern+backend+architectures;Exploring+computer+vision+%26+edge+AI;Focused+on+clean+code+%26+performance" alt="Typing SVG" />
     </a>
   </p>
 
-  <!-- Quick Badges / Links -->
+  <!-- Quick Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/samiyigituncu/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -26,32 +27,31 @@
 
 ---
 
-### 💫 Hakkımda
+### 📌 Hakkımda
 
-Merhaba! Ben Yiğit. Karmaşık problemleri verimli, temiz ve sürdürülebilir mimarilerle çözmeyi seven bir **Bilgisayar Mühendisliği** öğrencisiyim.
+Bilgisayar mühendisliği öğrencisiyim. Çalışmalarımı ağırlıklı olarak **.NET ile backend mimarileri** ve **Python ile bilgisayarlı görü (computer vision)** üzerine yoğunlaştırıyorum.
 
-* 🎯 **Odak Alanım:** Modern **C# / .NET** ekosisteminde ölçeklenebilir backend mimarileri ve RESTful API servisleri geliştirmek.
-* 👁️ **Görüntü İşleme & AI:** **Python**, **OpenCV**, **YOLO** ve **ONNX** ile uç cihazlar (Raspberry Pi vb.) üzerinde gerçek zamanlı nesne tespiti, OCR ve analiz sistemleri inşa etmek.
-* ⚡ **Çalışma Yaklaşımım:** Clean Architecture, SOLID prensipleri, prototipleme, ölçülebilir testler ve optimize edilmiş algoritmalar.
+- 💻 **Backend:** C# ve ASP.NET Core ile RESTful API'ler, katmanlı mimariler ve veri tabanı yönetimi.
+- 👁️ **Görüntü İşleme:** OpenCV ve YOLO ile nesne tespiti, sınıflandırma ve Raspberry Pi gibi uç cihazlarda gerçek zamanlı çalışan çözümler.
+- 🎯 **Yaklaşım:** Temiz mimari prensipleri, verimli algoritmalar ve doğrudan gerçek dünyada karşılığı olan projeler üretmek.
 
 ---
 
-### 🛠️ Yetkinlikler & Araç Çantası
+### 🛠️ Teknolojiler & Araçlar
 
 <div align="center">
 
-| Kategori | Teknolojiler |
+| Alan | Teknolojiler |
 | :--- | :--- |
-| **Backend & Mimari** | `C#` · `.NET Core` · `ASP.NET Core Web API` · `Entity Framework Core` · `Clean Architecture` · `REST` |
-| **Yapay Zekâ & Görü** | `Python` · `OpenCV` · `YOLO` · `ONNX Runtime` · `OCR` · `Raspberry Pi (Edge AI)` |
-| **Veritabanı & Altyapı**| `Microsoft SQL Server` · `PostgreSQL` · `Git` · `GitHub` · `Linux` |
-| **Frontend & Mobil** | `TypeScript` · `React Native` · `Tailwind / Modern UI` |
+| **Backend** | `C#` · `.NET Core` · `ASP.NET Core Web API` · `Entity Framework Core` · `RESTful API` |
+| **Görüntü İşleme & AI** | `Python` · `OpenCV` · `YOLO` · `ONNX Runtime` · `Raspberry Pi (Edge AI)` |
+| **Veri Tabanı & Araçlar** | `MS SQL Server` · `PostgreSQL` · `Git` · `GitHub` · `Linux` |
+| **Mobil & Web** | `React Native` · `TypeScript` |
 
 <br/>
 
-<!-- Modern Icon Grid -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,opencv,ts,react,postgres,git,github,linux,raspberrypi&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,opencv,ts,react,postgres,git,github,linux,raspberrypi&theme=dark" alt="Teknoloji İkonları" />
 </a>
 
 </div>
@@ -64,9 +64,9 @@ Merhaba! Ben Yiğit. Karmaşık problemleri verimli, temiz ve sürdürülebilir 
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 EmlakAsistanAI</h3>
-      <p>Gayrimenkul danışmanlarının sesli notlarını otomatik olarak analiz edip yapılandırılmış müşteri, ilan ve randevu kayıtlarına dönüştüren yapay zekâ destekli CRM uygulaması.</p>
+      <p>Gayrimenkul danışmanlarının ses kayıtlarını analiz ederek otomatik olarak müşteri, ilan ve görüşme notlarına dönüştüren yapay zekâ destekli CRM uygulaması.</p>
       <p>
-        <code>C#</code> <code>.NET Core</code> <code>EF Core</code> <code>React Native</code> <code>SQL Server</code>
+        <code>ASP.NET Core</code> <code>EF Core</code> <code>React Native</code> <code>TypeScript</code> <code>SQL Server</code>
       </p>
       <p align="center">
         <a href="https://github.com/yyigituncu/EmlakAsistanAI"><b>Projeyi İncele →</b></a>
@@ -74,7 +74,7 @@ Merhaba! Ben Yiğit. Karmaşık problemleri verimli, temiz ve sürdürülebilir 
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📦 DolapAnaliz</h3>
-      <p>Dolap ve raf fotoğraflarından nesneleri otomatik tespit eden ve sınıf bazında sayım gerçekleştiren YOLO tabanlı modern bilgisayarlı görü ve analiz sistemi.</p>
+      <p>Dolap ve raf fotoğrafları üzerinden nesneleri tespit eden ve kategori bazlı sayım gerçekleştiren YOLO tabanlı görüntü işleme ve analiz sistemi.</p>
       <p>
         <code>Python</code> <code>YOLO</code> <code>OpenCV</code> <code>Computer Vision</code>
       </p>
@@ -86,7 +86,7 @@ Merhaba! Ben Yiğit. Karmaşık problemleri verimli, temiz ve sürdürülebilir 
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🚗 PTS — Plaka Tanıma Sistemi</h3>
-      <p>Raspberry Pi üzerinde uçta çalışan (Edge AI), kamera akışından gerçek zamanlı araç plakası tespiti ve OCR ile okuma gerçekleştiren staj AR-GE çalışması.</p>
+      <p>Raspberry Pi üzerinde uçta çalışan, kamera akışından araç plakalarını tespit edip OCR ile ayrıştıran staj AR-GE çalışması.</p>
       <p>
         <code>Python</code> <code>OpenCV</code> <code>ONNX Runtime</code> <code>Raspberry Pi</code>
       </p>
@@ -96,7 +96,7 @@ Merhaba! Ben Yiğit. Karmaşık problemleri verimli, temiz ve sürdürülebilir 
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🐜 ACO Rota Optimizasyonu</h3>
-      <p>Karınca Kolonisi Optimizasyonu (Ant Colony Optimization) algoritması kullanılarak Konya ili için rota ve mesafe maliyet analizi gerçekleştiren sezgisel modelleme.</p>
+      <p>Karınca Kolonisi Algoritması (Ant Colony Optimization) ile harita üzerindeki en uygun rota ve mesafe hesaplamalarını gerçekleştiren optimizasyon çalışması.</p>
       <p>
         <code>Python</code> <code>Algorithms</code> <code>Heuristic Optimization</code>
       </p>
@@ -115,15 +115,15 @@ Merhaba! Ben Yiğit. Karmaşık problemleri verimli, temiz ve sürdürülebilir 
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=yyigituncu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" height="165" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=yyigituncu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" height="165" alt="GitHub İstatistikleri" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyigituncu&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="165" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyigituncu&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="165" alt="Kullanılan Diller" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=yyigituncu&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="150" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=yyigituncu&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="150" alt="Streak İstatistikleri" />
       </td>
     </tr>
   </table>
@@ -131,13 +131,13 @@ Merhaba! Ben Yiğit. Karmaşık problemleri verimli, temiz ve sürdürülebilir 
 
 ---
 
-### 📬 İletişim & Bağlantı
+### 📬 İletişim
 
-Fikir alışverişi yapmak, projeler hakkında konuşmak veya sadece selam vermek isterseniz bana her zaman ulaşabilirsiniz:
+Projeler veya iş birlikleri için bana dilediğiniz zaman ulaşabilirsiniz:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samiyigituncu/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sami%20Yi%C4%9Fit%20Uncu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sami%20Yi%C4%9Fit%20Uncu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:yyigituncu@gmail.com">
@@ -146,5 +146,5 @@ Fikir alışverişi yapmak, projeler hakkında konuşmak veya sadece selam verme
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=90&section=footer" width="100%" alt="Footer Banner" />
 </div>
