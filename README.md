@@ -115,7 +115,7 @@ Bilgisayar mühendisliği öğrencisiyim. Çalışmalarımı ağırlıklı olara
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=yyigituncu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" height="165" alt="GitHub İstatistikleri" />
+        <img src="https://github-readme-stats.vercel.app/api?username=yyigituncu&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" height="165" alt="GitHub İstatistikleri" />
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyigituncu&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="165" alt="Kullanılan Diller" />
