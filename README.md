@@ -4,8 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=180&section=header&text=Sami%20Yi%C4%9Fit%20Uncu&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
 
   <p align="center">
-    👋 <b>Merhaba!</b> Kod yazmayı, yeni teknolojiler kurcalamayı ve bir şeyler üretmeyi seven bir bilgisayar mühendisliği öğrencisiyim.
-  </p>
+  
 
   <p align="center">
     <a href="https://www.linkedin.com/in/samiyigituncu/" target="_blank">
