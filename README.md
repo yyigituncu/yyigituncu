@@ -20,7 +20,7 @@
 
 | Proje | Kapsam & Teknoloji |
 | :--- | :--- |
-| [**EmlakAsistanAI**](https://github.com/yyigituncu/EmlakAsistanAI) | Gayrimenkul danışmanlarının ses kayıtlarını otomatik müşteri ve ilan notlarına dönüştüren yapay zekâ destekli sesli CRM uygulaması.<br/>`ASP.NET Core` · `EF Core` · `React Native` · `SQL Server` |
+| [**EmlakAsistanAI**](https://github.com/yyigituncu/EmlakAsistanAI) | Clean Architecture, birim/entegrasyon testleri ve Docker Compose ile kurgulanmış; sesli notları yapılandırılmış müşteri ve ilan kayıtlarına dönüştüren yapay zekâ destekli CRM uygulaması.<br/>`ASP.NET Core` · `EF Core` · `React Native` · `SQL Server` |
 | [**DolapAnaliz**](https://github.com/yyigituncu/DolapAnaliz) | Dolap ve raf fotoğraflarından ürünleri tespit edip sınıf bazında sayım yapan YOLO26 tabanlı bilgisayarlı görü sistemi.<br/>`Python` · `YOLO26` · `OpenCV` |
 | **PTS — Plaka Tanıma**<br/><sub>Staj · Kapalı kaynak</sub> | Kamera görüntüsünden araç plakalarını algılayıp OCR ile metne döken görüntü işleme sistemi; ana işlem sunucu üzerinde çalışır, Raspberry Pi tarafı ise yedek (failover) olarak kurgulanmıştır.<br/>`Python` · `OpenCV` · `ONNX Runtime` · `Raspberry Pi` |
 | [**Konya ACO**](https://github.com/yyigituncu/konya-aco-optimization) | Karınca Kolonisi Algoritması (ACO) kullanarak Konya haritası üzerinde en kısa rota ve mesafe optimizasyonu.<br/>`Python` · `ACO` |
@@ -31,7 +31,7 @@
 | :--- | :--- |
 | **Backend & API** | `C#` · `.NET Core` · `ASP.NET Core Web API` · `Entity Framework Core` |
 | **Görüntü İşleme & Edge AI** | `Python` · `OpenCV` · `YOLO` · `ONNX Runtime` · `Raspberry Pi` |
-| **Veri & Altyapı** | `MS SQL Server` · `PostgreSQL` · `Linux` · `Git` |
+| **Veri & Altyapı** | `MS SQL Server` · `PostgreSQL` · `Docker` · `Linux` · `Git` |
 | **Mobil & Arayüz** | `React Native` · `TypeScript` |
 
 <br/>
