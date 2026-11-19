@@ -31,7 +31,7 @@
 | :--- | :--- |
 | **Backend & API** | `C#` · `.NET Core` · `ASP.NET Core Web API` · `Entity Framework Core` |
 | **Görüntü İşleme & AI** | `Python` · `OpenCV` · `YOLO` · `ONNX Runtime` |
-| **Veri, Altyapı & Donanım** | `MS SQL Server` · `PostgreSQL` · `Docker` · `Linux` · `Raspberry Pi` · `Git` |
+| **Veri, Altyapı & Donanım** | `MS SQL Server` · `PostgreSQL` · `Docker` · `Linux` · `Git` · `Raspberry Pi` |
 | **Mobil & Arayüz** | `React Native` · `TypeScript` |
 
 <br/>
