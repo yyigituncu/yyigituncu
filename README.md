@@ -30,8 +30,8 @@
 | Alan | Araçlar & Teknolojiler |
 | :--- | :--- |
 | **Backend & API** | `C#` · `.NET Core` · `ASP.NET Core Web API` · `Entity Framework Core` |
-| **Görüntü İşleme & Edge AI** | `Python` · `OpenCV` · `YOLO` · `ONNX Runtime` · `Raspberry Pi` |
-| **Veri & Altyapı** | `MS SQL Server` · `PostgreSQL` · `Docker` · `Linux` · `Git` |
+| **Görüntü İşleme & AI** | `Python` · `OpenCV` · `YOLO` · `ONNX Runtime` |
+| **Veri, Altyapı & Donanım** | `MS SQL Server` · `PostgreSQL` · `Docker` · `Linux` · `Raspberry Pi` · `Git` |
 | **Mobil & Arayüz** | `React Native` · `TypeScript` |
 
 <br/>
