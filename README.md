@@ -14,15 +14,15 @@
   </sub>
 </p>
 
-> Bilgisayar Mühendisliği öğrencisiyim. **C# / .NET** tarafında ölçeklenebilir backend ve API mimarileri geliştiriyor; **Python, OpenCV, YOLO ve ONNX Runtime** ile Raspberry Pi gibi donanımlar üzerinde gerçek zamanlı bilgisayarlı görü sistemleri kuruyorum.
+> Bilgisayar Mühendisliği öğrencisiyim. Ağırlıklı olarak **C# / .NET** tarafında backend ve API geliştirme üzerine çalışıyor; **Python, OpenCV, YOLO ve ONNX Runtime** ile Raspberry Pi gibi donanımlar üzerinde görüntü işleme projeleri yapıyorum.
 
 ## Seçili Projeler
 
 | Proje | Kapsam & Teknoloji |
 | :--- | :--- |
-| [**EmlakAsistanAI**](https://github.com/yyigituncu/EmlakAsistanAI) | Clean Architecture, birim/entegrasyon testleri ve Docker Compose ile kurgulanmış; sesli notları yapılandırılmış müşteri ve ilan kayıtlarına dönüştüren yapay zekâ destekli CRM uygulaması.<br/>`ASP.NET Core` · `EF Core` · `React Native` · `SQL Server` |
+| [**EmlakAsistanAI**](https://github.com/yyigituncu/EmlakAsistanAI) | Clean Architecture, birim/entegrasyon testleri ve Docker Compose desteğiyle geliştirilmiş; sesli notları müşteri ve ilan kayıtlarına dönüştüren yapay zekâ destekli CRM uygulaması.<br/>`ASP.NET Core` · `EF Core` · `React Native` · `SQL Server` |
 | [**DolapAnaliz**](https://github.com/yyigituncu/DolapAnaliz) | Dolap ve raf fotoğraflarından ürünleri tespit edip sınıf bazında sayım yapan YOLO26 tabanlı bilgisayarlı görü sistemi.<br/>`Python` · `YOLO26` · `OpenCV` |
-| **PTS — Plaka Tanıma**<br/><sub>Staj · Kapalı kaynak</sub> | Kamera görüntüsünden araç plakalarını algılayıp OCR ile metne döken görüntü işleme sistemi; ana işlem sunucu üzerinde çalışır, Raspberry Pi tarafı ise yedek (failover) olarak kurgulanmıştır.<br/>`Python` · `OpenCV` · `ONNX Runtime` · `Raspberry Pi` |
+| **PTS — Plaka Tanıma**<br/><sub>Staj · Kapalı kaynak</sub> | Kamera görüntüsünden araç plakalarını algılayıp OCR ile metne döken görüntü işleme sistemi; ana işlem sunucuda çalışır, Raspberry Pi ise yedek (failover) olarak devreye girer.<br/>`Python` · `OpenCV` · `ONNX Runtime` · `Raspberry Pi` |
 | [**Konya ACO**](https://github.com/yyigituncu/konya-aco-optimization) | Karınca Kolonisi Algoritması (ACO) kullanarak Konya haritası üzerinde en kısa rota ve mesafe optimizasyonu.<br/>`Python` · `ACO` |
 
 ## Teknik Odak
